@@ -5,9 +5,10 @@ if (!defined('__TYPECHO_ROOT_DIR__')) exit;
  *  
  * 导出文章为可自定义的Yaml格式的markdown文件
  * @package Export
- * @author jkjoy
+ * @author Sun
  * @url https://github.com/jkjoy
  * @version 1.0.0
+ * @link https://www.imsun.org
  */
 class Export_Plugin implements Typecho_Plugin_Interface
 {
